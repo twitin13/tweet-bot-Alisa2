@@ -18,9 +18,9 @@ Diskon JATINANGOR ShopeeFood! 🍽️✨
 Paket ayam spicy large cuma 8K AJAAA ! 💯🔥
 
 Klaim voucher nya dulu di sini cepetan ⬇️
-https://spf.shopee.co.id/2LQehLhpJ4
+https://spf.shopee.co.id/4LC5OewEek
 
-t. gofood grabfood kode promo go grab shopee food sfood gacoan ayam chicken house gojek daget Gary Iskak Raisa malming
+t. gofood grabfood kode promo go grab shopee food sfood gacoan ayam chicken house gojek daget rabu kamis
 `;
 
     // 📸 Upload dua gambar
@@ -38,4 +38,5 @@ t. gofood grabfood kode promo go grab shopee food sfood gacoan ayam chicken hous
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
